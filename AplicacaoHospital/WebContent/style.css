@@ -1,0 +1,62 @@
+#image{
+	position:absolute;
+	width:100%;
+}
+
+#wallpaper{
+	position:absolute;
+	z-index:-1;
+	width:100%;	
+}
+fieldset{
+	border-color:black;
+	background-color:#ADD8E6;
+}
+
+#homeContent{
+	float:right;
+}
+navHome{
+	float:right;
+	color:black;	
+}
+#ouy{
+	position:absolute;
+	z-index:-1;
+	width:100%;	
+}
+
+#pranc{
+width:131px;
+    margin-right: auto 
+ }
+ 
+ #ag{
+width:131px;
+    margin-right: auto 
+ }
+
+#ficha{
+    display: block;
+    width: 90%;
+    height: 123px;
+    margin: 0 auto;
+
+}
+
+#image2{
+	float:left;
+}
+
+#historico,#cd{
+	float:right;
+}
+
+table{
+	width:-webkit-fill-available;
+}
+
+#diog{
+	padding:109px;
+}
+
